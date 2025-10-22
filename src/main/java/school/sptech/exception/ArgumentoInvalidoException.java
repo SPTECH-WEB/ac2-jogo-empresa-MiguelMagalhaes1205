@@ -1,6 +1,6 @@
 package school.sptech.exception;
 
-public class ArgumentoInvalidoException extends RuntimeException {
+public class ArgumentoInvalidoException extends Exception {
 
     public ArgumentoInvalidoException() {
     }

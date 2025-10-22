@@ -1,6 +1,6 @@
 package school.sptech.exception;
 
-public class JogoInvalidoException extends RuntimeException {
+public class JogoInvalidoException extends Exception {
 
     public JogoInvalidoException() {
     }
